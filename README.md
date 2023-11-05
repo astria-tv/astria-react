@@ -1,8 +1,8 @@
-## Olaris React Client
+## Astria React Client
 
-This is the repository for the React frontend client for the open-source, community driven, media manager and transcoding server, [Olaris](https://www.gitlab.com/olaris/olaris-server).
+This is the repository for the React frontend client for the open-source, community driven, media manager and transcoding server, [Astria](https://github.com/astria-tv/astria-server).
 
-If you're not a developer or just want to run Olaris, you should go to the [olaris-server repo](https://www.gitlab.com/olaris/olaris-server) for instructions on how to run it for yourself!
+If you're not a developer or just want to run Astria, you should go to the [astria-server repo](https://github.com/astria-tv/astria-server) for instructions on how to run it for yourself!
 
 Otherwise, if you're interested in contributing, continue on below.
 
